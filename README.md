@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Author-HTR--Tech-cyan?style=flat-square">
+  <img src="https://img.shields.io/badge/Author-elliot37-cyan?style=flat-square">
   <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
   <img src="https://img.shields.io/badge/Written%20In-Bash-cyan?style=flat-square">
 </p>
@@ -63,8 +63,8 @@ $ bash zphisher.sh
 
 ### Run on Docker
 ```
-$ docker pull htrtech/zphisher
-$ docker run --rm -it htrtech/zphisher
+$ docker pull adielliot37/zphisher
+$ docker run --rm -it adielliot37/zphisher
 ```
 
 ### Dependencies
