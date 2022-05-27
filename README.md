@@ -99,6 +99,6 @@ $ docker run --rm -it adielliot37/zphisher
 
 ### Find Me on :
 <p align="left">
-  <a href="https://github.com/adielliot37" target="_blank"><img src="https://img.shields.io/badge/Github-HTR--TECH-green?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/adielliot37" target="_blank"><img src="https://img.shields.io/badge/Github-elliot37-green?style=for-the-badge&logo=github"></a>
  
 
