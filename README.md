@@ -33,6 +33,7 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 ### Features
 
+- This is a very good website
 - Latest and updated login pages.
 - Mask URL support 
 - Beginners friend
