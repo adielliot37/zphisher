@@ -35,7 +35,7 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 - Latest and updated login pages.
 - Mask URL support 
-- Beginners friendly
+- Beginners friend
 - Docker support (checkout `docker-legacy` branch)
 - Multiple tunneling options
   - Localhost
